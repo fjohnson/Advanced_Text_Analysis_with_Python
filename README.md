@@ -11,8 +11,7 @@ A workshop that introduces more complex text analysis techniques, including topi
 Click the blue button to launch the tutorial material in the Google Collab environment. Please be aware that you'll need a Google Account to access the service.
 
 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() - Advanced Analysis Basics
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Advanced_Text_Analysis_with_Python/blob/master/Advanced_Text_Analysis.ipynb)
 
 
 
