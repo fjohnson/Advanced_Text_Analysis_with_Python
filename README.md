@@ -1,4 +1,4 @@
-![DSL Logo](dsl_logo.png)
+![DSL Logo](Advanced Text Analysis Python Splash.png)
 
 # Advanced Text Analysis with Python
 
