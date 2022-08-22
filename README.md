@@ -1,4 +1,4 @@
-![DSL Logo](Advanced Text Analysis Python Splash.png)
+![Workshop-Splash](Advanced-Text-Analysis-Python.png)
 
 # Advanced Text Analysis with Python
 
